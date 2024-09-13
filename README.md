@@ -30,7 +30,7 @@
 		<source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&layout=compact&cache_seconds=100"
 			media="(prefers-color-scheme: dark), (width:45%)"
 		/>
-		<source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=bluefy&hide_border=true&bg_color=00000000&layout=compact&cache_seconds=100"
+		<source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&layout=compact&cache_seconds=100"
 			media="(prefers-color-scheme: light), (width:45%)"
 		/>
 		<img 
