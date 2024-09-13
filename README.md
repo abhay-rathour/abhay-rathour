@@ -22,6 +22,10 @@
 			<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github"
 				media="(prefers-color-scheme: light)"
 			/>
+			<img 
+			    src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github" 
+			    alt="GitHub Stats" 
+			  />
 		</picture>
 <!-- 		<img align="center"
 		height="150em"
