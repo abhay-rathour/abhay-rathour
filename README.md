@@ -14,39 +14,45 @@
 <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=django&text=false&animation=spin&fill=black&textfill=092E20&"> -->
 
 <p align="center">
-	<a href="https://github.com/abhay-rathour">
-		<picture>
-			<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&rank_icon=github"
-				media="(prefers-color-scheme: dark)"
-			/>
-			<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github"
-				media="(prefers-color-scheme: light)"
-			/>
-			<img 
-			    src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github" 
-			    alt="GitHub Stats" 
-			  />
-		</picture>
-<!-- 		<img align="center"
-		height="150em"
-		src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&rank_icon=github" />
-		<img align="center"
-		height="150em"
-		src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github#gh-light-mode-only" /> -->
-	</a>
-	<a href="https://github.com/abhay-rathour">
-		<img align="center"
-		height="150em"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&layout=compact"
+	<picture>
+		<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=100"
+			media="(prefers-color-scheme: dark), (width:45%)"
 		/>
-	</a>
-	<a href="https://github.com/abhay-rathour">
-		<img align="center"
-		height="150em"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-rathour&theme=apprentice&hide_border=true&stroke=0000&background=00000000&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-	</a>
+		<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=100"
+			media="(prefers-color-scheme: light), (width:45%)"
+		/>
+		<img 
+		    src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=100" 
+		    alt="GitHub Stats" height="150em" 
+		  />
+	</picture> &nbsp; &nbsp; &nbsp;
+	<picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&layout=compact&cache_seconds=100"
+			media="(prefers-color-scheme: dark), (width:45%)"
+		/>
+		<source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=bluefy&hide_border=true&bg_color=00000000&layout=compact&cache_seconds=100"
+			media="(prefers-color-scheme: light), (width:45%)"
+		/>
+		<img 
+		    src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=100" 
+		    alt="Top Languages" height="150em"
+		/>
+	</picture>
 </p>
-
+<p align="center">
+ 	<picture>
+		<source srcset="https://github-readme-streak-stats.herokuapp.com/?user=abhay-rathour&theme=apprentice&hide_border=true&stroke=0000&background=00000000&ring=e05397&fire=e05397&currStreakLabel=e05397&cache_seconds=100"
+			media="(prefers-color-scheme: dark)"
+		/>
+		<source srcset="https://github-readme-streak-stats.herokuapp.com/?user=abhay-rathour&theme=bluefy&hide_border=true&stroke=0000&background=00000000&ring=e05397&fire=e05397&currStreakLabel=e05397&cache_seconds=100"
+			media="(prefers-color-scheme: light)"
+		/>
+		<img 
+		    src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-rathour&theme=bluefy&hide_border=true&stroke=0000&background=00000000&ring=e05397&fire=e05397&currStreakLabel=e05397&cache_seconds=100&cache_seconds=100" 
+		    alt="Contribution Streaks" height="150em"
+		/>
+	</picture>
+</p>
 <p align="center">
 	<a href="https://github.com/abhay-rathour">
 		<img
