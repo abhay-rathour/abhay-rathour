@@ -17,18 +17,18 @@
 	<a href="https://github.com/abhay-rathour">
 		<img align="center"
 		height="150em"
-		src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117" />
+		src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&rank_icon=github" />
 	</a>
 	<a href="https://github.com/abhay-rathour">
 		<img align="center"
 		height="150em"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117&layout=compact"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&layout=compact"
 		/>
 	</a>
 	<a href="https://github.com/abhay-rathour">
 		<img align="center"
 		height="150em"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-rathour&theme=transparent&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+		src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-rathour&theme=apprentice&hide_border=true&stroke=0000&background=00000000&ring=e05397&fire=e05397&currStreakLabel=e05397" />
 	</a>
 </p>
 
