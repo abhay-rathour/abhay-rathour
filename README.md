@@ -15,9 +15,20 @@
 
 <p align="center">
 	<a href="https://github.com/abhay-rathour">
-		<img align="center"
+		<picture>
+			<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&rank_icon=github"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github"
+				media="(prefers-color-scheme: light)"
+			/>
+		</picture>
+<!-- 		<img align="center"
 		height="150em"
 		src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&rank_icon=github" />
+		<img align="center"
+		height="150em"
+		src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github#gh-light-mode-only" /> -->
 	</a>
 	<a href="https://github.com/abhay-rathour">
 		<img align="center"
