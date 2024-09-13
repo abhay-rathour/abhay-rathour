@@ -15,14 +15,14 @@
 
 <p align="center">
 	<picture>
-		<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=100"
+		<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=00000000&rank_icon=percentile&cache_seconds=100"
 			media="(prefers-color-scheme: dark), (width:45%)"
 		/>
-		<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=100"
+		<source srcset="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=percentile&cache_seconds=100"
 			media="(prefers-color-scheme: light), (width:45%)"
 		/>
 		<img 
-		    src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=github&cache_seconds=100" 
+		    src="https://github-readme-stats.vercel.app/api?username=abhay-rathour&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&bg_color=00000000&rank_icon=percentile&cache_seconds=100" 
 		    alt="GitHub Stats" height="150em" 
 		  />
 	</picture> &nbsp; &nbsp; &nbsp;
